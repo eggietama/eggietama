@@ -3,6 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/eggietama/ActiveDirectoryLab)
+  - [ELK Stack Project](URL)
+  - [Attack, Defense, and Analysis of a Vulnerable Network](URL)
+  - [Assessment Analysis and Hardening of a Vulnerable System](URL)
 
 <h2> - Certifications</h2>
 
