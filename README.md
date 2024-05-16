@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/eggietama/LABURL)
+  - [Active Directory Home Lab](https://github.com/eggietama/ActiveDirectoryLab)
 
 <h2> - Certifications</h2>
 
